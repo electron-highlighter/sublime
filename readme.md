@@ -6,7 +6,7 @@ This is my Electron Highlighter syntax ported over to a Sublime Text 3 color sch
 
 For now, I don't have any plans to make it a full-fledged UI theme, it's just a color scheme. Sublime UI themes require a lot more work to build out, whereas Atom has UI themes that adapt to your color scheme automatically, and VS Code only has one UI theme and you style both the UI and editor in the same package.
 
-That being said, I haven't found an accompanying UI theme that fits super well so I might very well do it at some point. One Dark, Material Palenight, and Spacegray themes all look okay with this color scheme.
+That being said, I haven't found an accompanying UI theme that fits super well so I might very well do it at some point. One Dark, Material Palenight, and Spacegray themes all look okay with this color scheme. I'm honestly considering forking one of those and modifying some colors and calling it a day.
 
 ## Fair enough. How do I get this?
 

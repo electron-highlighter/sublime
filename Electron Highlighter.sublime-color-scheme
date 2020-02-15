@@ -841,7 +841,7 @@
         },
         {
             "name": "Markdown Link Title and Description",
-            "scope": "meta.image.inline.description.markdown",
+            "scope": "meta.image.inline.description.markdown, meta.link.inline.description.markdown",
             "foreground": "var(blue)"
         },
         {
